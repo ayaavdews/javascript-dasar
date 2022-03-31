@@ -37,8 +37,29 @@
     - definisi
     - *function* boolean
     - *truthy* & *falsy*
+  - Array
+    - [teori](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan34%20-%20array%20(teori)/script.js)
+    - [*manipulation*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan35%20-%20array%20(manipulation)/script.js)
+      - length(), join(), push(), pop(), unshift(), shift(), dll.
+    - [*slice* & *splice*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan36%20-%20array%20(slice%20%20%26%20%20splice)/script.js)
+    - [*foreach*, *map* & *sort*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan37%20-%20array%20(foreach%2C%20map%20%26%20sort)/script.js)
+    - [*filter* & *find*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan38%20-%20array%20(filter%26find)/script.js)
   - Object
+    - [teori](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan41%20-%20object%20(teori)/script.js)
+    - [membuat object](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan42%20-%20object%20(create)/script.js)
+      - object literal
+      - function declaration
+      - constructor function (keyword new)
+      - Object.create()
+    - [*keyword this*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan43%20-%20object%20(this)/script.js)
   - Function
+    - [teori](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan27%20-%20teori%20function/script.js)
+    - [membuat & menjalankan function](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan28%20-%20function%20(membuat%20%26%20menjalankan)/script.js)
+    - [parameter & argument](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan29%20-%20function%20(parameter%20%26%20argumen)/script.js)
+    - [*refactoring*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan30%20-%20function%20(refactoring)/script.js)
+    - [*variable scope*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan31%20-%20function%20(variable%20scope)/script.js)
+    - [rekursif](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan32%20-%20function%20(rekursif)/script.js)
+    - [function *declaration* & *expression*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan33%20-%20function%20declaration%20vs%20expression/script.js)
   - Undefined
 * [operator](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan11%20-%20operator2/script.js)
   - binary
@@ -57,3 +78,32 @@
   - pembuatan (*declaration*, *initialization*, *assignment*)
   - aturan penulisan
   - *shorthand* 
+* penulisan javascript
+* [*pop up box*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan16%20-%20popup%20box/script.js)
+  - alert()
+  - prompt()
+  - confirm()
+* control flow
+  - tabel penelusuran (*trace table*/*cry-run test*)
+  - pengulangan (*loop*/*iteration*)
+    - [while loop](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan18%20-%20while%20loop/script.js)
+    - [for loop](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan20%20-%20for%20loop/script.js)
+  - pengkondisian/percabangan (*condition*)
+    - if else ([bentuk umum](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan21%20-%20condition%20if%20else/script.js)|[latihan1](https://github.com/ayaavdews/javascript-dasar/tree/master/pertemuan22%20-%20latihan%20condition%20if%20else) | [latihan2](https://github.com/ayaavdews/javascript-dasar/tree/master/pertemuan23%20-%20latihan%20condition%20if%20else%202))
+    - [switch](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan24%20-%20switch/script.js)
+    - [nested if else](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan25%20-%20pengulangan%20dan%20pengkondisian%20bersarang/script.js)
+* [game suit](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan26%20-%20game%20suit/script.js)
+* latihan function & array ([pt.1](https://github.com/ayaavdews/javascript-dasar/tree/master/pertemuan39%20-%20latihan%20function%20%26%20array%201) | [pt.2](https://github.com/ayaavdews/javascript-dasar/tree/master/pertemuan40%20-%20latihan%20function%20%26%20array%202))
+* [latihan object](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan44%20-%20object%20(latihan)/script.js)
+
+<p align="center"><b>credits :</b>
+  <a align="rigth"  href="https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w" target="_blank">
+    <img width="8%" align="center" valign="middle" src="https://img.shields.io/badge/-wpunpas-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"/>
+  </a>
+</p>
+<!-- <img width="8%" align="center" valign="middle" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>%FF0000
+https://img.shields.io/badge/-zidangibran14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidangibran14/
+(https://www.linkedin.com/in/zidangibran14/)
+
+<a href="https://instagram.com/m2k6.artworks" target="_blank"><img src="https://img.shields.io/badge/@m2k6.artworks-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![GitHub: Khalil Gibran](https://img.shields.io/github/followers/m2k6artworks?label=m2k6artworks&style=social)](https://github.com/m2k6artworks) -->
