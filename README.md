@@ -62,16 +62,13 @@
     - [function *declaration* & *expression*](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan33%20-%20function%20declaration%20vs%20expression/script.js)
   - Undefined
 * [operator](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan11%20-%20operator2/script.js)
-  - binary
-    - aritmatika
-    - penugasan
-    - perbandingan
-    - logika
-    - string
-  - ternary
-    - conditional
-  - unary
-    - typeof
+  |binary | ternary | unary
+  |:---:|:---:|:---:
+  |aritmatika<td rowspan="5">conditional</td><td rowspan="5">typeof</td>
+  penugasan|||
+  perbandingan
+  logika       
+  string
   - definisi & contoh
 * [variable](https://github.com/ayaavdews/javascript-dasar/blob/master/pertemuan14%20-%20variable/script.js)
   - definisi
@@ -101,9 +98,3 @@
     <img width="8%" align="center" valign="middle" src="https://img.shields.io/badge/-wpunpas-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"/>
   </a>
 </p>
-<!-- <img width="8%" align="center" valign="middle" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>%FF0000
-https://img.shields.io/badge/-zidangibran14-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidangibran14/
-(https://www.linkedin.com/in/zidangibran14/)
-
-<a href="https://instagram.com/m2k6.artworks" target="_blank"><img src="https://img.shields.io/badge/@m2k6.artworks-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![GitHub: Khalil Gibran](https://img.shields.io/github/followers/m2k6artworks?label=m2k6artworks&style=social)](https://github.com/m2k6artworks) -->
